@@ -1,0 +1,15 @@
+C:\Users\Eng Ahmed Gamal\Desktop\Task-MG\Clean-Architecture\Clean-Architecture\CleanArchitecture.Appllication\bin\Debug\net6.0\CleanArchitecture.Appllication.deps.json
+C:\Users\Eng Ahmed Gamal\Desktop\Task-MG\Clean-Architecture\Clean-Architecture\CleanArchitecture.Appllication\bin\Debug\net6.0\CleanArchitecture.Appllication.dll
+C:\Users\Eng Ahmed Gamal\Desktop\Task-MG\Clean-Architecture\Clean-Architecture\CleanArchitecture.Appllication\bin\Debug\net6.0\CleanArchitecture.Appllication.pdb
+C:\Users\Eng Ahmed Gamal\Desktop\Task-MG\Clean-Architecture\Clean-Architecture\CleanArchitecture.Appllication\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+C:\Users\Eng Ahmed Gamal\Desktop\Task-MG\Clean-Architecture\Clean-Architecture\CleanArchitecture.Appllication\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+C:\Users\Eng Ahmed Gamal\Desktop\Task-MG\Clean-Architecture\Clean-Architecture\CleanArchitecture.Appllication\obj\Debug\net6.0\CleanArchitecture.Appllication.csproj.AssemblyReference.cache
+C:\Users\Eng Ahmed Gamal\Desktop\Task-MG\Clean-Architecture\Clean-Architecture\CleanArchitecture.Appllication\obj\Debug\net6.0\CleanArchitecture.Appllication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eng Ahmed Gamal\Desktop\Task-MG\Clean-Architecture\Clean-Architecture\CleanArchitecture.Appllication\obj\Debug\net6.0\CleanArchitecture.Appllication.AssemblyInfoInputs.cache
+C:\Users\Eng Ahmed Gamal\Desktop\Task-MG\Clean-Architecture\Clean-Architecture\CleanArchitecture.Appllication\obj\Debug\net6.0\CleanArchitecture.Appllication.AssemblyInfo.cs
+C:\Users\Eng Ahmed Gamal\Desktop\Task-MG\Clean-Architecture\Clean-Architecture\CleanArchitecture.Appllication\obj\Debug\net6.0\CleanArchitecture.Appllication.csproj.CoreCompileInputs.cache
+C:\Users\Eng Ahmed Gamal\Desktop\Task-MG\Clean-Architecture\Clean-Architecture\CleanArchitecture.Appllication\obj\Debug\net6.0\CleanArc.D9AD99D6.Up2Date
+C:\Users\Eng Ahmed Gamal\Desktop\Task-MG\Clean-Architecture\Clean-Architecture\CleanArchitecture.Appllication\obj\Debug\net6.0\CleanArchitecture.Appllication.dll
+C:\Users\Eng Ahmed Gamal\Desktop\Task-MG\Clean-Architecture\Clean-Architecture\CleanArchitecture.Appllication\obj\Debug\net6.0\refint\CleanArchitecture.Appllication.dll
+C:\Users\Eng Ahmed Gamal\Desktop\Task-MG\Clean-Architecture\Clean-Architecture\CleanArchitecture.Appllication\obj\Debug\net6.0\CleanArchitecture.Appllication.pdb
+C:\Users\Eng Ahmed Gamal\Desktop\Task-MG\Clean-Architecture\Clean-Architecture\CleanArchitecture.Appllication\obj\Debug\net6.0\ref\CleanArchitecture.Appllication.dll
