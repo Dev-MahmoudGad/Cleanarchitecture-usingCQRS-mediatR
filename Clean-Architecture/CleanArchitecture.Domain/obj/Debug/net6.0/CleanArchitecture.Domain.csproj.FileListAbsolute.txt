@@ -1,0 +1,11 @@
+C:\Users\Eng Ahmed Gamal\Desktop\Task-MG\Clean-Architecture\Clean-Architecture\CleanArchitecture.Domain\bin\Debug\net6.0\CleanArchitecture.Domain.deps.json
+C:\Users\Eng Ahmed Gamal\Desktop\Task-MG\Clean-Architecture\Clean-Architecture\CleanArchitecture.Domain\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+C:\Users\Eng Ahmed Gamal\Desktop\Task-MG\Clean-Architecture\Clean-Architecture\CleanArchitecture.Domain\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+C:\Users\Eng Ahmed Gamal\Desktop\Task-MG\Clean-Architecture\Clean-Architecture\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eng Ahmed Gamal\Desktop\Task-MG\Clean-Architecture\Clean-Architecture\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\Eng Ahmed Gamal\Desktop\Task-MG\Clean-Architecture\Clean-Architecture\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.AssemblyInfo.cs
+C:\Users\Eng Ahmed Gamal\Desktop\Task-MG\Clean-Architecture\Clean-Architecture\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Eng Ahmed Gamal\Desktop\Task-MG\Clean-Architecture\Clean-Architecture\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.dll
+C:\Users\Eng Ahmed Gamal\Desktop\Task-MG\Clean-Architecture\Clean-Architecture\CleanArchitecture.Domain\obj\Debug\net6.0\refint\CleanArchitecture.Domain.dll
+C:\Users\Eng Ahmed Gamal\Desktop\Task-MG\Clean-Architecture\Clean-Architecture\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.pdb
+C:\Users\Eng Ahmed Gamal\Desktop\Task-MG\Clean-Architecture\Clean-Architecture\CleanArchitecture.Domain\obj\Debug\net6.0\ref\CleanArchitecture.Domain.dll
