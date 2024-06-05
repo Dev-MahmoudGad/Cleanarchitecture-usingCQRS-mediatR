@@ -7,9 +7,9 @@
         <div
           *ngIf="registrationForm.get('firstName').invalid && (registrationForm.get('firstName').dirty || registrationForm.get('firstName').touched)"
           class="text-danger">
-          <small *ngIf="registrationForm.get('firstName').hasError('required')">First Name is required.</small>
-          <small *ngIf="registrationForm.get('firstName').hasError('maxlength')">Max length is 20 characters.</small>
-          <small *ngIf="registrationForm.get('firstName').hasError('pattern')">Only Arabic or English letters and spaces
+          <small *ngIf="registrationForm.get('firstName').errors?.required">First Name is required.</small>
+          <small *ngIf="registrationForm.get('firstName').errors?.maxlength">Max length is 20 characters.</small>
+          <small *ngIf="registrationForm.get('firstName').errors?.pattern">Only Arabic or English letters and spaces
             are allowed.</small>
         </div>
       </div>
@@ -20,8 +20,8 @@
         <div
           *ngIf="registrationForm.get('middleName').invalid && (registrationForm.get('middleName').dirty || registrationForm.get('middleName').touched)"
           class="text-danger">
-          <small *ngIf="registrationForm.get('middleName').hasError('maxlength')">Max length is 40 characters.</small>
-          <small *ngIf="registrationForm.get('middleName').hasError('pattern')">Only Arabic or English letters and
+          <small *ngIf="registrationForm.get('middleName').errors?.maxlength ">Max length is 40 characters.</small>
+          <small *ngIf="registrationForm.get('middleName').errors?.pattern ">Only Arabic or English letters and
             spaces are allowed.</small>
         </div>
       </div>
@@ -32,9 +32,9 @@
         <div
           *ngIf="registrationForm.get('lastName').invalid && (registrationForm.get('lastName').dirty || registrationForm.get('lastName').touched)"
           class="text-danger">
-          <small *ngIf="registrationForm.get('lastName').hasError('required')">Last Name is required.</small>
-          <small *ngIf="registrationForm.get('lastName').hasError('maxlength')">Max length is 20 characters.</small>
-          <small *ngIf="registrationForm.get('lastName').hasError('pattern')">Only Arabic or English letters and spaces
+          <small *ngIf="registrationForm.get('lastName').errors?.required">First Name is required.</small>
+          <small *ngIf="registrationForm.get('lastName').errors?.maxlength ">Max length is 20 characters.</small>
+          <small *ngIf="registrationForm.get('lastName').errors?.pattern ">Only Arabic or English letters and
             are allowed.</small>
         </div>
       </div>
@@ -47,8 +47,8 @@
         <div
           *ngIf="registrationForm.get('birthDate').invalid && (registrationForm.get('birthDate').dirty || registrationForm.get('birthDate').touched)"
           class="text-danger">
-          <small *ngIf="registrationForm.get('birthDate').hasError('required')">Birth Date is required.</small>
-          <small *ngIf="registrationForm.get('birthDate').hasError('minAge')">Minimum age is 20 years.</small>
+          <small *ngIf="registrationForm.get('birthDate').errors?.required ">Birth Date is required.</small>
+          <small *ngIf="registrationForm.get('birthDate').errors?.minAge">Minimum age is 20 years.</small>
         </div>
       </div>
 
@@ -58,8 +58,8 @@
         <div
           *ngIf="registrationForm.get('mobileNumber').invalid && (registrationForm.get('mobileNumber').dirty || registrationForm.get('mobileNumber').touched)"
           class="text-danger">
-          <small *ngIf="registrationForm.get('mobileNumber').hasError('required')">Mobile Number is required.</small>
-          <small *ngIf="registrationForm.get('mobileNumber').hasError('pattern')">Format example +021006158123.</small>
+          <small *ngIf="registrationForm.get('mobileNumber').errors?.required">Mobile Number is required.</small>
+          <small *ngIf="registrationForm.get('mobileNumber').errors?.pattern  ">Format example +021006158123.</small>
         </div>
       </div>
 
@@ -69,8 +69,8 @@
         <div
           *ngIf="registrationForm.get('email').invalid && (registrationForm.get('email').dirty || registrationForm.get('email').touched)"
           class="text-danger">
-          <small *ngIf="registrationForm.get('email').hasError('required')">Email is required.</small>
-          <small *ngIf="registrationForm.get('email').hasError('email')">Invalid email.</small>
+          <small *ngIf="registrationForm.get('email').errors?.required">Email is required.</small>
+          <small *ngIf="registrationForm.get('email').errors?.email">Invalid email.</small>
         </div>
       </div>
     </div>
@@ -90,7 +90,7 @@
             <div
               *ngIf="currentAdd?.get('governate').invalid && (currentAdd?.get('governate').dirty || currentAdd?.get('governate').touched)"
               class="text-danger">
-              <small *ngIf="currentAdd?.get('governate').hasError('required')">Governate is required.</small>
+              <small *ngIf="currentAdd?.get('governate').errors?.required">Governate is required.</small>
             </div>
           </div>
 
@@ -103,7 +103,7 @@
             <div
               *ngIf="currentAdd?.get('cityId').invalid && (currentAdd?.get('cityId').dirty || currentAdd?.get('cityId').touched)"
               class="text-danger">
-              <small *ngIf="currentAdd?.get('cityId').hasError('required')">City is required.</small>
+              <small *ngIf="currentAdd?.get('cityId').errors?.required">City is required.</small>
             </div>
           </div>
 
@@ -113,8 +113,8 @@
             <div
               *ngIf="currentAdd?.get('street').invalid && (currentAdd?.get('street').dirty || currentAdd?.get('street').touched)"
               class="text-danger">
-              <small *ngIf="currentAdd?.get('street').hasError('required')">Street is required.</small>
-              <small *ngIf="currentAdd?.get('street').hasError('maxlength')">Max length is 200 characters.</small>
+              <small *ngIf="currentAdd?.get('street').errors?.required">Street is required.</small>
+              <small *ngIf="currentAdd?.get('street').errors?.maxlength ">Max length is 200 characters.</small>
             </div>
           </div>
         </div>
@@ -126,7 +126,7 @@
             <div
               *ngIf="currentAdd?.get('buildingNumber').invalid && (currentAdd?.get('buildingNumber').dirty || currentAdd?.get('buildingNumber').touched)"
               class="text-danger">
-              <small *ngIf="currentAdd?.get('buildingNumber').hasError('required')">Building Number is required.</small>
+              <small *ngIf="currentAdd?.get('buildingNumber').errors?.required">Building Number is required.</small>
             </div>
           </div>
 
@@ -136,7 +136,7 @@
             <div
               *ngIf="currentAdd?.get('flatNumber').invalid && (currentAdd?.get('flatNumber').dirty || currentAdd?.get('flatNumber').touched)"
               class="text-danger">
-              <small *ngIf="currentAdd?.get('flatNumber').hasError('required')">Flat Number is required.</small>
+              <small *ngIf="currentAdd?.get('flatNumber').errors?.required">Flat Number is required.</small>
             </div>
           </div>
         </div>
